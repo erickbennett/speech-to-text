@@ -1,0 +1,10 @@
+.DS_Store
+build/
+.idea
+local.properties
+*.iml
+node_modules/
+npm-debug.log
+yarn-error.log
+*.jsbundle
+.env*

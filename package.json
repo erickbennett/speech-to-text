@@ -1,0 +1,13 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "browser-sync start --directory --server --files '*.css, *.html, *.js'"
+  },
+  "author": "E",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.5"
+  }
+}
